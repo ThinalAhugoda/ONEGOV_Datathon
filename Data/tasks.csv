@@ -1,0 +1,20 @@
+task_id,task_name,section_id,section_name
+TASK-001,Capturing the biometric information,SEC-001,Obtaining the first-time driving license
+TASK-002,Blood check,SEC-001,Obtaining the first-time Driving license
+TASK-003,Enter owner details to the system (personal or company),SEC-002,Vehicle Registration
+TASK-004,Physically inspect the vehicle (sometimes done in a yard),SEC-002,Vehicle Registration
+TASK-005,Collect registration fees, road tax, and number plate fees,SEC-002,Vehicle Registration
+TASK-006,Issue the official vehicle registration certificate (VRC / logbook / CR),SEC-002,Vehicle Registration
+TASK-007,Connect the emission analyzer to the vehicle (probe inserted into the exhaust pipe),SEC-003,Vehicle Emission Testing
+TASK-008,Register vehicles for the emission test,SEC-003,Vehicle Emission Testing
+TASK-009,Upload data to the central government/environment authority database,SEC-003,Vehicle Emission Testing
+TASK-010,Issue replaced driving license,SEC-004,Lost/Stolen Driving License Re-Issue
+TASK-011,Record lost/stolen license incident report,SEC-004,Lost/Stolen Driving License Re-Issue
+TASK-012,Collecting fees when driving license is re-issued,SEC-004,Lost/Stolen Driving License Re-Issue
+TASK-013,Correct name or DOB errors,SEC-005,Corrections & Amendments
+TASK-014,Update number plates,SEC-005,Corrections & Amendments
+TASK-015,Update changed addresses,SEC-005,Corrections & Amendments
+TASK-016,Vehicle registration,SEC-006,Charges for Services
+TASK-017,Collecting Fees for Driving License,SEC-006,Charges for Services
+TASK-018,Collecting fees when Driving License is change,SEC-006,Charges for Services
+TASK-019,Counting and analysing Fees,SEC-006,Charges for Services
